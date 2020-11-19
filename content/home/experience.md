@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -19,22 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Quantitative Researcher"
-  company = "Trexquant"
+  company = "**Trexquant**, Data Research Team"
   company_url = ""
   location = "India"
   date_start = "2020-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
+
+  [[experience]]
+  title = "Gloabal Alpha Researcher"
+  company = "**Trexquant**, Alpha Research Team"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2020-02-01"
+  date_end = "2020-08-31"
+  description = """"""
 
 [[experience]]
   title = "Summer Intern"
-  company = "AB-InBev"
+  company = "**AB-InBev**, Operations Team"
   company_url = ""
   location = "Bangalore, India"
   date_start = "2019-05-13"

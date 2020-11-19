@@ -19,7 +19,7 @@ bio: My research interests include High Performance Computing with applications 
 interests:
 - Artificial Intelligence
 - High Performance Computing
-- Information Retrieval
+- Deep Learning
 
 education:
   courses:
@@ -63,4 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently working as a Quantitative Researcher at Trexquant Investment LP in India. I completed my undergraduate studies from the Department of Mechanical Engineering at Indian Institute of Technology Madras.
+I completed my undergraduate studies from the Department of Mechanical Engineering at Indian Institute of Technology Madras. I am currently working as a Quantitative Researcher at Trexquant Investment LP in India.
+
+My interests lie broadly in the area of Artificial Intelligence and High Performance Computing. I have worked on several projects involving a mix of concepts such as Deep Learning, Natural Language Processing and Computer Vision. You can find my projects in the sections below. I have completed several industrial internships during my undergraduate education of which a few are a Summer Internship at AB-InBev, the world's largest brewer, and as a Global Alpha Researcher at Trexquant.
