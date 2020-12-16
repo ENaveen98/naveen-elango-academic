@@ -42,6 +42,15 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2019-05-13"
   date_end = "2019-07-12"
-  description = """Developed an automatic Database cleaning tool using AI"""
+  description = """"""
+
+[[experience]]
+  title = "NLP Engineer Intern"
+  company = "**Clootrack**, E-commerce Insights"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2019-03-01"
+  date_end = "2019-05-01"
+  description = """"""
 
 +++

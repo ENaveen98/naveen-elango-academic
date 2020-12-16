@@ -1,0 +1,68 @@
+Change detected, rebuilding site.
+2020-12-16 16:38:07.194 +0530
+Total in 39 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:38:23.196 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Search-Engine\\index.md": WRITE
+Total in 28 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:38:37.209 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Search-Engine\\index.md": WRITE
+Total in 27 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:38:48.195 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Search-Engine\\index.md": WRITE
+Total in 26 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:38:51.193 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Retrofitting-ESA\\index.md": WRITE
+Total in 35 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:40:17.205 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Retrofitting-ESA\\index.md": WRITE
+Total in 29 ms
+
+Change of Static files detected, rebuilding site.
+2020-12-16 16:40:18.208 +0530
+Syncing media to D:\Personal Website\Netlify\Academic-Website\
+
+Change detected, rebuilding site.
+2020-12-16 16:40:18.209 +0530
+Data changed "D:\\Personal Website\\Netlify\\Academic-Website\\data\\page_sharer.toml": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\projects.md": WRITE
+Total in 57 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:40:19.209 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\index.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\about.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\accomplishments.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\awards.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\contact.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\demo.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\hero.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\posts.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\skills.md": WRITE
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\home\\talks.md": WRITE
+WARN 2020/12/16 16:40:19 Homepage not found at /home/index.md!
+WARN 2020/12/16 16:40:19 Add the `/home/index.md` homepage file to each language's content folder. For example, your site should have a `content/home/` folder containing `index.md` and your homepage sections, or for multi-language sites, `content/en/home/` and `content/zh/home/` etc. Refer to the 'Build Your Homepage' and 'Language' documentation at https://wowchemy.com/docs/ and the example homepage at https://github.com/wowchemy/starter-academic/tree/master/exampleSite/content/home/index.md .
+Total in 49 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:40:30.195 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Search-Engine\\index.md": WRITE
+WARN 2020/12/16 16:40:30 Homepage not found at /home/index.md!
+WARN 2020/12/16 16:40:30 Add the `/home/index.md` homepage file to each language's content folder. For example, your site should have a `content/home/` folder containing `index.md` and your homepage sections, or for multi-language sites, `content/en/home/` and `content/zh/home/` etc. Refer to the 'Build Your Homepage' and 'Language' documentation at https://wowchemy.com/docs/ and the example homepage at https://github.com/wowchemy/starter-academic/tree/master/exampleSite/content/home/index.md .
+Total in 36 ms
+
+Change detected, rebuilding site.
+2020-12-16 16:40:31.194 +0530
+Source changed "D:\\Personal Website\\Netlify\\Academic-Website\\content\\project\\NLP-Retrofitting-ESA\\index.md": WRITE
+WARN 2020/12/16 16:40:31 Homepage not found at /home/index.md!
+WARN 2020/12/16 16:40:31 Add the `/home/index.md` homepage file to each language's content folder. For example, your site should have a `content/home/` folder containing `index.md` and your homepage sections, or for multi-language sites, `content/en/home/` and `content/zh/home/` etc. Refer to the 'Build Your Homepage' and 'Language' documentation at https://wowchemy.com/docs/ and the example homepage at https://github.com/wowchemy/starter-academic/tree/master/exampleSite/content/home/index.md .
+Total in 38 ms

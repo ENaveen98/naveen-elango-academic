@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "In *2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)* (pp. 2759-2766). IEEE."
 publication_short: "In *2019 IEEE HPCC/SmartCity/DSS*"
 
-abstract: "Training deep neural networks has large memory requirements to store the activation maps for the forward pass of all layers to be able to compute the gradients during the backward pass. When training networks on the edge, large models may either not fit in the memory or may run with very small batch sizes. Checkpointing has been proposed as a solution, whereby during the forward pass the activation maps from only some of the layers are stored as checkpoints, and the rest are recomputed during the backward pass starting from the closest checkpoint. However, checkpointing in practice requires a careful choice of the set of layers to checkpoint. In this paper we empirically evaluate checkpointing for different networks. We then establish an analytical approach to estimate the memory requirement of each layer (using a linear regression model) in a network and thereby identify the layers which have to be checkpointed. Through this method we were able to reduce memory consumption of MobileNet and ResNet-18 architectures by a factor of 2.6 and 1.8 respectively. Finally, the networks are tested on a Raspberry Pi 3 Model B board. For MobileNet using our approach for checkpointing, we could increase the batch-size from 4 to 12."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
