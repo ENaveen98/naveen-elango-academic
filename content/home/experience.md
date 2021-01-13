@@ -27,10 +27,10 @@ date_format = "Jan 2006"
   description = """"""
 
   [[experience]]
-  title = "Gloabal Alpha Researcher"
+  title = "Global Alpha Researcher"
   company = "**Trexquant**, Alpha Research Team"
   company_url = ""
-  location = "Bangalore, India"
+  location = "India"
   date_start = "2020-02-01"
   date_end = "2020-08-31"
   description = """"""
