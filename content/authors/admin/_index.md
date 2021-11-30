@@ -6,12 +6,12 @@ title: Naveen Elango
 superuser: true
 
 # Role/position
-role: Quantitative Researcher
+role: Product Manager
 
 # Organizations/Affiliations
 organizations:
-- name: Trexquant
-  url: ""
+- name: Paytm
+  url: "https://paytm.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include High Performance Computing with applications in Artificial Intelligence.
@@ -19,11 +19,11 @@ bio: My research interests include High Performance Computing with applications 
 interests:
 - Artificial Intelligence
 - High Performance Computing
-- Deep Learning
+- Product Management
 
 education:
   courses:
-  - course: BTech (Honours)
+  - course: BTech (Honors)
     institution: Indian Institute of Technology Madras
     year: 2020
 
@@ -63,6 +63,8 @@ user_groups:
 - Visitors
 ---
 
-I completed my undergraduate studies from the Department of Mechanical Engineering at Indian Institute of Technology Madras. I am currently working as a Quantitative Researcher at Trexquant Investment LP in India.
+I completed my undergraduate studies from the Department of Mechanical Engineering at **Indian Institute of Technology Madras**. I am currently working as a **Product Manager** at Paytm (#1 Mobile Payments App in India) in India.
 
-My interests lie broadly in the area of Artificial Intelligence and High Performance Computing. I have worked on several projects involving a mix of concepts such as Deep Learning, Natural Language Processing and Computer Vision. You can find my projects in the sections below. I have completed several industrial internships during my undergraduate education of which a few are a Summer Internship at AB-InBev, the world's largest brewer, and as a Global Alpha Researcher at Trexquant.
+My interests lie broadly in the area of **Artificial Intelligence** and **High Performance Computing**. I have worked on several projects involving a mix of concepts such as Deep Learning, Natural Language Processing and Computer Vision. You can find my projects in the sections below. 
+
+I have completed several industrial internships during my undergraduate education of which a few are a Summer Internship at AB-InBev, the world's largest brewer, and as a Global Alpha Researcher at Trexquant.

@@ -18,18 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Product Manager"
+  company = "**Paytm**, Advertisement Infrastructure Team"
+  company_url = "https://paytm.com/"
+  location = "India"
+  date_start = "2021-11-08"
+  date_end = ""
+  description = """"""
+
+[[experience]]
   title = "Quantitative Researcher"
   company = "**Trexquant**, Data Research Team"
-  company_url = ""
+  company_url = "https://trexquant.com/"
   location = "India"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-11-05"
   description = """"""
 
   [[experience]]
   title = "Global Alpha Researcher"
   company = "**Trexquant**, Alpha Research Team"
-  company_url = ""
+  company_url = "https://trexquant.com/"
   location = "India"
   date_start = "2020-02-01"
   date_end = "2020-08-31"
@@ -38,7 +47,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Summer Intern"
   company = "**AB-InBev**, Operations Team"
-  company_url = ""
+  company_url = "https://www.ab-inbev.com/"
   location = "Bangalore, India"
   date_start = "2019-05-13"
   date_end = "2019-07-12"
@@ -47,7 +56,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "NLP Engineer Intern"
   company = "**Clootrack**, E-commerce Insights"
-  company_url = ""
+  company_url = "https://clootrack.com/"
   location = "Bangalore, India"
   date_start = "2019-03-01"
   date_end = "2019-05-01"
